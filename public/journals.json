@@ -4896,7 +4896,7 @@
     "field_cn": "一般管理",
     "abs_rank": "4*",
     "fms_rank": "B",
-    "is_ft50": false,
+    "is_ft50": true,
     "is_utd24": false
   },
   {
@@ -5056,7 +5056,7 @@
     "field_cn": "人力资源管理",
     "abs_rank": "3",
     "fms_rank": "B",
-    "is_ft50": true,
+    "is_ft50": false,
     "is_utd24": false
   },
   {
@@ -12466,7 +12466,7 @@
     "field_cn": "组织管理",
     "abs_rank": "4",
     "fms_rank": "B",
-    "is_ft50": true,
+    "is_ft50": false,
     "is_utd24": false
   },
   {
@@ -12486,7 +12486,7 @@
     "field_cn": "组织管理",
     "abs_rank": "4",
     "fms_rank": "A",
-    "is_ft50": true,
+    "is_ft50": false,
     "is_utd24": false
   },
   {
@@ -12826,7 +12826,7 @@
     "field_cn": "心理学",
     "abs_rank": "4*",
     "fms_rank": "A",
-    "is_ft50": false,
+    "is_ft50": true,
     "is_utd24": false
   },
   {
@@ -16276,7 +16276,7 @@
     "field_cn": "SOC SCI",
     "abs_rank": "4*",
     "fms_rank": null,
-    "is_ft50": false,
+    "is_ft50": true,
     "is_utd24": false
   },
   {
